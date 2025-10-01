@@ -3,10 +3,15 @@
 
 Կատարել եմ  
 Տվյալների հավաքում և նախնական մաքրում
+
 Exploratory Data Analysis (EDA)
+
 Feature Engineering և Encode
+
 Machine Learning մոդելավորում (Random Forest Classifier, Logistic Regression)
+
 Մոդելի գնահատում (Confusion Matrix, Classification Report)
+
 Feature Importance և HR ինսայթների վերլուծություն
 
 Արդյունքներ
